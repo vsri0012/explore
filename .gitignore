@@ -8,3 +8,4 @@ _site
 vendor
 .bundle
 .idea
+.Rproj.user
